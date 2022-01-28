@@ -79,7 +79,6 @@ function preload(){
 
     creeperImg = loadImage("images/creeper.png")
 
-    starting = loadSound("music/starting.wav")
     winter = loadSound("music/winter.wav")
     waterS = loadSound("music/water.wav")
 
